@@ -12,4 +12,6 @@
 **22 Aug** => *Notes* => Energy & Matter
 *Assignment* => Lab Safety Posters, Sign up for AP Classroom
 **24 Aug** => *Notes* => Productivity & Food
+**26 Aug** => *Notes* => Biogeochemical Cycles
+*Assignment* => Unit 1 - Ecosystems
 
