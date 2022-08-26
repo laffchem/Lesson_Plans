@@ -12,4 +12,6 @@
 
 ### Unit 3 - Periodic Table
 **24-25 Aug** => Periodic Table Notes
+**26-29 Aug** => Atomic Structure Notes
+*Assignment* => Unit 3 - Atomic Structure
 
