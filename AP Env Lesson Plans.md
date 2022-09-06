@@ -14,4 +14,6 @@
 **24 Aug** => *Notes* => Productivity & Food
 **26 Aug** => *Notes* => Biogeochemical Cycles
 *Assignment* => Unit 1 - Ecosystems
+**30 Aug - 01 Sep** => *Notes* => Terrestrial Biomes
+**06 Sep** => *Notes* => Marine Biomes
 
