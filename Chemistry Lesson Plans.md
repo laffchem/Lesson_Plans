@@ -14,4 +14,9 @@
 **24-25 Aug** => Periodic Table Notes
 **26-29 Aug** => Atomic Structure Notes
 *Assignment* => Unit 3 - Atomic Structure
+**30-31 Aug** => Ions Notes
+*Assignment* => Unit 3 - Ions
+**01 Sep** => *Assignment* => Unit 3 - Ions
+**02-06 Sep** => Electron Configuration Notes
+*Assignment* => Unit 3 - Electron Configuration
 
