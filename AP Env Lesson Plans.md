@@ -16,4 +16,6 @@
 *Assignment* => Unit 1 - Ecosystems
 **30 Aug - 01 Sep** => *Notes* => Terrestrial Biomes
 **06 Sep** => *Notes* => Marine Biomes
+**08 Sep** => *Notes* => Freshwater Biomes
+*Assignment* => Unit 1 AP Classroom Review Questions
 
