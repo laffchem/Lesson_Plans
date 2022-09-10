@@ -19,4 +19,7 @@
 **01 Sep** => *Assignment* => Unit 3 - Ions
 **02-06 Sep** => Electron Configuration Notes
 *Assignment* => Unit 3 - Electron Configuration
-
+**07-08 Sep** => Electron Configuration Transition Notes
+*Assignment* => Unit 3 - Electron Configuration
+**09-12 Sep** => Electron Configuration Ions Notes
+*Assignment* => Unit 3 - Electron Configuration Ions && Electron Configuration Transition Metals
