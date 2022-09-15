@@ -23,3 +23,7 @@
 *Assignment* => Unit 3 - Electron Configuration
 **09-12 Sep** => Electron Configuration Ions Notes
 *Assignment* => Unit 3 - Electron Configuration Ions && Electron Configuration Transition Metals
+**13-14 Sep** => *Assignment* => Electron Configuration Quiz Review
+**15-16 Sep** => Honors => Calculating Percent Abundance
+Regular => Electron Configuration Quiz Review 22_23
+**17 Sep** => *Assignment* => Unit 3 - Calculating Percent Abundance
