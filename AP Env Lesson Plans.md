@@ -18,4 +18,11 @@
 **06 Sep** => *Notes* => Marine Biomes
 **08 Sep** => *Notes* => Freshwater Biomes
 *Assignment* => Unit 1 AP Classroom Review Questions
+**12 Sep** => *Assignment* => Unit 1 APES Review
+**14 Sep** => *Review* => Unit 1
+**16 Sep** => Unit 1 Test
 
+***
+
+### Unit 2 - The Living World "Biodiversity"
+**20 Sep** => *Notes* => Biodiversity
