@@ -27,3 +27,4 @@
 **15-16 Sep** => Honors => Calculating Percent Abundance
 Regular => Electron Configuration Quiz Review 22_23
 **17 Sep** => *Assignment* => Unit 3 - Calculating Percent Abundance
+**19-20 Sep** *Quiz* => Electron Configuration Quiz=> *Assignment* => Unit 3 - Calculating Percent Abundance
