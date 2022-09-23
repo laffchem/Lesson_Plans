@@ -26,3 +26,4 @@
 
 ### Unit 2 - The Living World "Biodiversity"
 **20 Sep** => *Notes* => Biodiversity
+**22 Sep** => *Notes* => Ecological Communities *Assignment* => Unit 2 - Biodiversity
