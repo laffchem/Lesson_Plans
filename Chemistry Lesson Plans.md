@@ -29,3 +29,5 @@ Regular => Electron Configuration Quiz Review 22_23
 **17 Sep** => *Assignment* => Unit 3 - Calculating Percent Abundance
 **19-20 Sep** *Quiz* => Electron Configuration Quiz=> Unit 3 - Periodic Trends => *Assignments* => Unit 3 - Calculating Percent Abundance, Unit 3 - Periodic Trends 
 **21-23 Sep** => *Assignment* => Unit 3 - Periodic Trends 2
+**27 Sep & 30 Sep** => *Assignment* => Unit 3 - The Disappearing Spoon (Extra Credit)
+**3-4 Oct** => Quantum Numbers Notes => *Assignment* => Unit 3 - Quantum Numbers
