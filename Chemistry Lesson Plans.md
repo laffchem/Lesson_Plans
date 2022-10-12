@@ -31,3 +31,5 @@ Regular => Electron Configuration Quiz Review 22_23
 **21-23 Sep** => *Assignment* => Unit 3 - Periodic Trends 2
 **27 Sep & 30 Sep** => *Assignment* => Unit 3 - The Disappearing Spoon (Extra Credit)
 **3-4 Oct** => Quantum Numbers Notes => *Assignment* => Unit 3 - Quantum Numbers
+**6-7 Oct** => *Assignment* => Unit 3 - Quantum Numbers Worksheet
+**10-11 Oct** => *Assignment* => Unit 3 - Quantum Numbers Practice
