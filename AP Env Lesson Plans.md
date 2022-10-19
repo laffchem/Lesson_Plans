@@ -32,3 +32,5 @@
 **6 Oct** => *Assignment* => Unit 2 - Biodiversity & Ecosystems
 **10 Oct** => *Notes* => Threats to Biodiversity
 **12 Oct** => *PSAT DAY* => Review Day
+**14 Oct** => *Notes* => Unit 2 - Threats to Biodiversity
+**18 Oct** => *Notes* => Unit 2 - Protection of Biodiversity
