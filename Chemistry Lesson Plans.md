@@ -33,7 +33,7 @@ Regular => Electron Configuration Quiz Review 22_23
 **3-4 Oct** => Unit 3 - Quantum Numbers Notes => *Assignment* => Unit 3 - Quantum Numbers
 **6-7 Oct** => *Assignment* => Unit 3 - Quantum Numbers Worksheet
 **10-12 Oct** => *Assignment* => Unit 3 - Quantum Numbers Practice
-**13-14 Oct** => *Assignment* => Unit 3 - Quantum Numbers Worksheet & Practice
-**19-20 Oct** => *Notes* => Unit 3 - Electromagnetic Radiation
-**20-21 Oct** => *Notes* => Unit 3 - Calculating Photon Energy *Assignment* => Unit 3 - Electromagnetic Radiation
+**13-14 Oct** => *Notes* => Unit 3 - Electromagnetic Radiation
+**19-20 Oct** => *Notes* => Unit 3 - Calculating Photon Energy => *Assignment* => Unit 3 - Electromagnetic Radiation
+
 
