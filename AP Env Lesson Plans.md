@@ -34,3 +34,4 @@
 **12 Oct** => *PSAT DAY* => Review Day
 **14 Oct** => *Notes* => Unit 2 - Threats to Biodiversity
 **18 Oct** => *Notes* => Unit 2 - Protection of Biodiversity
+**20 Oct** => *Assignment* => Unit 2 - AP Classroom Assignments
