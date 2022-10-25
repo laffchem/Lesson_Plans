@@ -35,3 +35,4 @@
 **14 Oct** => *Notes* => Unit 2 - Threats to Biodiversity
 **18 Oct** => *Notes* => Unit 2 - Protection of Biodiversity
 **20 Oct** => *Assignment* => Unit 2 - AP Classroom Assignments
+**25 Oct** => *Assignment* => Unit 2 - Review
