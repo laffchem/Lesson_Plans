@@ -36,7 +36,9 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **13-14 Oct** => *Notes* => Unit 3 - Electromagnetic Radiation
 **19-20 Oct** => *Notes* => Unit 3 - Calculating Photon Energy => *Assignment* => Unit 3 - Electromagnetic Radiation
 **24-25 Oct** => *Assignment* => Unit 3 - Electromagnetic Radiation *Assignment* => Unit 3 - Test Review
-**26-28 Oct** => *Assignment* => Unit 3 - Test Review
+**26-27 Oct** => *Assignment* => Unit 3 - Test Review
+**28-31 Oct** => *Lab Prep* => Made cardboard box spectroscopes.
+
 
 
 
