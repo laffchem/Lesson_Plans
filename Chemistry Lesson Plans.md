@@ -38,6 +38,8 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **24-25 Oct** => *Assignment* => Unit 3 - Electromagnetic Radiation *Assignment* => Unit 3 - Test Review
 **26-27 Oct** => *Assignment* => Unit 3 - Test Review
 **28-31 Oct** => *Lab Prep* => Made cardboard box spectroscopes.
+**01-02 Nov** => *Assignment* Unit 3 - Blooket Review
+
 
 
 
