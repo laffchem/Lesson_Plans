@@ -36,3 +36,5 @@
 **18 Oct** => *Notes* => Unit 2 - Protection of Biodiversity
 **20 Oct** => *Assignment* => Unit 2 - AP Classroom Assignments
 **25 - 27 Oct** => *Assignment* => Unit 2 - Review
+**31 Oct** => *Lab* => Unit 2 - Biodiversity Lab
+**2 Nov** => *Assignment* => Unit 2 - Blooket Review
