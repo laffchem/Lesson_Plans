@@ -39,3 +39,4 @@
 **31 Oct** => *Lab* => Unit 2 - Biodiversity Lab
 **2 Nov** => *Assignment* => Unit 2 - Blooket Review
 **4 Nov** => *Assignment* => Unit 2 - Blooket Review
+**16 Nov** => *Exam* => Unit 2 - Exam
