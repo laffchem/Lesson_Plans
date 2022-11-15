@@ -42,6 +42,10 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **03-04 Nov** => *Assignment* => Unit 3 - Blooket Review
 **07-09 Nov** => *Exam* => Unit 3 - Test
 
+***
+# Unit 4 - Chemical Bonding
+
+**15-17 Nov** => *Notes* => Unit 4 - Lewis Bonding Theory Notes
 
 
 
