@@ -35,7 +35,7 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **10-12 Oct** => *Assignment* => Unit 3 - Quantum Numbers Practice
 **13-14 Oct** => *Notes* => Unit 3 - Electromagnetic Radiation
 **19-20 Oct** => *Notes* => Unit 3 - Calculating Photon Energy => *Assignment* => Unit 3 - Electromagnetic Radiation
-**24-25 Oct** => *Assignment* => Unit 3 - Electromagnetic Radiation *Assignment* => Unit 3 - Test Review
+**24-25 Oct** => *Assignment* => Unit 3 - Electromagnetic Radiation => *Assignment* => Unit 3 - Test Review
 **26-27 Oct** => *Assignment* => Unit 3 - Test Review
 **28-31 Oct** => *Lab Prep* => Made cardboard box spectroscopes.
 **01-02 Nov** => *Assignment* => Unit 3 - Blooket Review
@@ -46,7 +46,7 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 # Unit 4 - Chemical Bonding
 
 **15-18 Nov** => *Notes* => Unit 4 - Lewis Bonding Theory Notes
-**28-29 Nov** => *Notes* => Unit 4 - Nomenclature of Covalent & Ionic Compounds
+**28-29 Nov** => *Notes* => Unit 4 - Nomenclature of Covalent & Ionic Compounds => *Assignment* => Unit 4 - Lewis Dot Structures 1 & 2
 **30 Nov - 2 Dec** => *Assignment* => Unit 4 - Nomenclature of Covalent & Ionic Compounds
 
 
