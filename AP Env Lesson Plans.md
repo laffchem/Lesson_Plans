@@ -40,3 +40,8 @@
 **2 Nov** => *Assignment* => Unit 2 - Blooket Review
 **4 Nov** => *Assignment* => Unit 2 - Blooket Review
 **16 Nov** => *Exam* => Unit 2 - Exam
+
+***
+### Unit 3 - Populations
+**30 Nov ** => *Assignment* => k & r Reproductive Strategies
+**1 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil 
