@@ -45,7 +45,9 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 ***
 # Unit 4 - Chemical Bonding
 
-**15-17 Nov** => *Notes* => Unit 4 - Lewis Bonding Theory Notes
+**15-18 Nov** => *Notes* => Unit 4 - Lewis Bonding Theory Notes
+**28-29 Nov** => *Notes* => Unit 4 - Nomenclature of Covalent & Ionic Compounds
+**30 Nov - 2 Dec** => *Assignment* => Unit 4 - Nomenclature of Covalent & Ionic Compounds
 
 
 
