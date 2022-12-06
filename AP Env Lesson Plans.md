@@ -44,8 +44,11 @@
 ***
 ### Unit 3 - Populations
 **18 Nov** => *Notes* => Population
-**29 Nov ** => *Assignment* => k & r Reproductive Strategies
-This unit was shortened due to repeated content from previous units. Only applicable stuff was taught.
+**29 Nov** => *Assignment* => k & r Reproductive Strategies
+*This unit was shortened due to repeated content from previous units. Only went over new information, other stuff was reviewed.*
+
 ***
+### Unit 4 - Earth Systems
+
 **01 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil 
 **05 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil
