@@ -28,8 +28,8 @@
 **20 Sep** => *Notes* => Biodiversity
 **22 Sep** => *Notes* => Ecological Communities *Assignment* => Unit 2 - Biodiversity
 **27 Sep** => *Notes* => Species Diversity *Assignment* => Unit 2 - AP Classroom Assignments
-**3 Oct** => *Notes* => Biological & Ecological Services
-**6 Oct** => *Assignment* => Unit 2 - Biodiversity & Ecosystems
+**03 Oct** => *Notes* => Biological & Ecological Services
+**06 Oct** => *Assignment* => Unit 2 - Biodiversity & Ecosystems
 **10 Oct** => *Notes* => Threats to Biodiversity
 **12 Oct** => *PSAT DAY* => Review Day
 **14 Oct** => *Notes* => Unit 2 - Threats to Biodiversity
@@ -37,11 +37,15 @@
 **20 Oct** => *Assignment* => Unit 2 - AP Classroom Assignments
 **25 - 27 Oct** => *Assignment* => Unit 2 - Review
 **31 Oct** => *Lab* => Unit 2 - Biodiversity Lab
-**2 Nov** => *Assignment* => Unit 2 - Blooket Review
-**4 Nov** => *Assignment* => Unit 2 - Blooket Review
+**02 Nov** => *Assignment* => Unit 2 - Blooket Review
+**04 Nov** => *Assignment* => Unit 2 - Blooket Review
 **16 Nov** => *Exam* => Unit 2 - Exam
 
 ***
 ### Unit 3 - Populations
-**30 Nov ** => *Assignment* => k & r Reproductive Strategies
-**1 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil 
+**18 Nov** => *Notes* => Population
+**29 Nov ** => *Assignment* => k & r Reproductive Strategies
+This unit was shortened due to repeated content from previous units. Only applicable stuff was taught.
+***
+**01 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil 
+**05 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil
