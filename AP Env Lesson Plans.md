@@ -53,3 +53,4 @@
 ### Unit 4 - Earth Systems
 **01 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil 
 **05 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil
+**07 Dec** => *Assignment* => Unit 4 - NCRS Soils Assignment
