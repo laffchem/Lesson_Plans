@@ -51,5 +51,7 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **05 Dec** => *Assignment* => Unit 4 - Nomenclature of Covalent & Ionic Compounds
 **06-07 Dec** => *Assignment* => Unit 4 - Nomenclature of Covalent & Ionic Compounds 2
 **08-09 Dec** => *Notes* => Unit 4 - Nomenclature of Polyatomic & Transition Metal Ionic Compounds
-
+**12-15 Dec** => *Assignments* => All Unit 4 Assignments due by end of week.
+**16-19 Dec** => *Notes* => Review for Midterm
+**20-23 Dec** => *Exams* => Midterms
 
