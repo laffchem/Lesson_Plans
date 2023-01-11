@@ -55,3 +55,5 @@
 **05 Dec** => *Notes* => Unit 4 - Tectonic Plates & Soil
 **07 Dec** => *Assignment* => Unit 4 - NCRS Soils Assignment
 **09 Dec** => *Notes* => Unit 4 - Soil Use & Abuse
+**13-15 Dec** => *Assignment* => Midterm Review
+**20-21 Dec** => *Exam* => Midterm
