@@ -57,3 +57,5 @@
 **09 Dec** => *Notes* => Unit 4 - Soil Use & Abuse
 **13-15 Dec** => *Assignment* => Midterm Review
 **20-21 Dec** => *Exam* => Midterm
+**10 Jan** => *Assignment* => Unit 4 - Soils Research / Review
+**12 Jan** => *Notes* => Unit 4 - Soil Erosion & Atmosphere
