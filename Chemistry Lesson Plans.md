@@ -54,4 +54,6 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **12-15 Dec** => *Assignments* => All Unit 4 Assignments due by end of week.
 **16-19 Dec** => *Notes* => Review for Midterm
 **20-23 Dec** => *Exams* => Midterms
+**09-11 Jan** => *Assignment* => Unit 4 - Lewis Dot & Nomenclature Reviews
+**12-17 Jan** => *Notes* => Unit 4 - Intermolecular Forces
 
