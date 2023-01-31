@@ -59,3 +59,11 @@
 **20-21 Dec** => *Exam* => Midterm
 **10 Jan** => *Assignment* => Unit 4 - Soils Research / Review
 **12 Jan** => *Notes* => Unit 4 - Soil Erosion & Atmosphere
+**16-20 Jan** => *Notes* => Unit 4 - Atmosphere
+**20 Jan** => *Assignment* => Unit 4 - AP Classroom
+**24-26 Jan** => *Notes* => Unit 4 - Climate Variations
+**30 Jan** => *Assignment* => Unit 4 - El Nino
+
+
+
+
