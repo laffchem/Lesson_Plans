@@ -57,5 +57,9 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **09-11 Jan** => *Assignment* => Unit 4 - Lewis Dot & Nomenclature Reviews
 **12-17 Jan** => *Notes* => Unit 4 - Intermolecular Forces
 **18-26 Jan** => *Assignment* => Unit 4 - Intermolecular Forces 1 & 2
+**26-27 Jan** => *Notes* => Unit 4 - VSEPR
+**30 Jan - 03 Feb** => *Assignment* => Unit 4 - VSEPR / Nomenclature Review
+
+
 
 
