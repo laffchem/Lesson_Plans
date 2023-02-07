@@ -63,7 +63,12 @@
 **20 Jan** => *Assignment* => Unit 4 - AP Classroom
 **24-26 Jan** => *Notes* => Unit 4 - Climate Variations
 **30 Jan** => *Assignment* => Unit 4 - El Nino
+**01-03 Feb** => *Assignment* => Unit 4 - Review
+**07 Feb** => *Exam* => Unit 4 - Exam
 
+***
+
+### Unit 5 - Land and Water Use
 
 
 
