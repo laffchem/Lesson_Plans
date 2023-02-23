@@ -69,6 +69,11 @@
 ***
 
 ### Unit 5 - Land and Water Use
-
+**09 Feb** => *Notes* => Unit 5 - Agriculture
+**13 Feb** => *Notes* => Unit 5 - Farming Practices & Soil Usage
+**15 Feb** => *Assignment* => Unit 5 - Ecological Footprint
+**17 Feb** => *Notes* => Unit 5 - Pesticides & Fertilzers
+**22 Feb** => *Notes* => Unit 5 - Land Usage
+**24 Feb** => *Lab* => Unit 5 - Cookie Mining (Land Usage)
 
 
