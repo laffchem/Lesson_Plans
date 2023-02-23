@@ -61,6 +61,15 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **30 Jan - 03 Feb** => *Assignment* => Unit 4 - VSEPR / Nomenclature Review
 **06-07 Feb** => *Assignment* => Unit 4 - Review (Nomenclature, Lewis Dot Structure, VSEPR, IMF)
 **08-09 Feb** => *Quiz* => Unit 4 - VSEPR & Intermolecular Forces
+**10-13 Feb** => *Notes* Formal Charge *Assignment* => Unit 4 - VSEPR / Formal Charge
+**14 Feb** => Day of Service
+**15-16 Feb** => Unit 4 - Review for Test
+**17 Feb** => *Exam* => Unit 4 Test (Per1)
+**23 Feb** => *Exam* => Unit 4 Test (Per5-8)
+***
+
+# Unit 2 Scientific Measurement
+**21-22 Feb** => *Notes* => Units of Measurement / Significant Figures
 
 
 
