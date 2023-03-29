@@ -75,5 +75,17 @@
 **17 Feb** => *Notes* => Unit 5 - Pesticides & Fertilzers
 **22 Feb** => *Notes* => Unit 5 - Land Usage
 **24 Feb** => *Lab* => Unit 5 - Cookie Mining (Land Usage)
+**28 Feb** => *Notes* => Unit 5 - Toxic Metals
+**2 Mar** => *Notes* => Unit 5 - Preserving Landscapes
+**06 Mar** => *Assignment* => Ecology Assignment (Substitute)
+**08 Mar** => *Assignment* => Food Web Assignment (Substitute)
+**10 Mar** => *Notes* => Landscape Ecology
+
+***
+
+### Unit 6 - Energy Resources & Consumption
+**14-16 Mar** => *Notes* => Energy Usage & Power Generation
+**28 Mar** => *Notes* => Renewable Strategies
+**30 Mar** => *Assignment* => Unit 6 AP Classroom
 
 
