@@ -70,6 +70,16 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 
 # Unit 2 Scientific Measurement
 **21-22 Feb** => *Notes* => Units of Measurement / Significant Figures
+**23-24 Feb** => *Assignment* => Significant Figures 1
+**27-28 Feb** => *Assignment* => Significant Figures 2
+**01-03 Mar** => *Assignment* => Unit 2 - Review
+**06-10 Mar** => *Make-Up* => Assignments Makeup
+**13-16 Mar** => *Assignment* => Essay / Research Project ~ Chemistry
+**27-28 Mar** => *Notes* => Dimensional Analysis
+**29-31 Mar** => *Assignment* => Dimensional Analysis 1
 
+***
+
+#Unit 5 Chemical Quantities & Chemical Reactions
 
 
