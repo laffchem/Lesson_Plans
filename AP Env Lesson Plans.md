@@ -1,5 +1,5 @@
-# AP Environmental Science Lesson Plans
-
+# AP Environmental Science Lesson Plans 2022-2023 SY
+*All accomodations & specific lesson plan standards are located on Canvas*
 ***
 
 **16 Aug** => Introductions, Class Rules, Syllabus
@@ -87,5 +87,30 @@
 **14-16 Mar** => *Notes* => Energy Usage & Power Generation
 **28 Mar** => *Notes* => Renewable Strategies
 **30 Mar** => *Assignment* => Unit 6 AP Classroom
+
+***
+
+### Unit 7 - Atmospheric Pollution
+**3-5 Apr** => *Notes* => Unit 7 - The Zones of the Atmosphere
+**6-10 Apr** => *Notes* => Unit 7 - Criteria Pollution & Hazardous Air Pollutants => *Assignment* => Unit 7 - AP Classroom Questions
+***
+
+### Unit 8 - Aquatic & Terrestrial Pollution
+**11-12 Apr** => *Notes* => Unit 8 - Aquatic Pollution & Terrestrial Pollution => *Assignment* => Unit 8 - AP Classroom Questions
+
+***
+
+### Unit 9 - Global Change
+**17-18 Apr** => *Notes* => Unit 9 - Global Change => *Assignment* => Unit 9 - AP Classroom Questions
+
+***
+
+### End of Year Stuff
+**19 Apr-1 May** => Test Review
+**2 May** => AP Environmental Science Exam
+
+***
+**3 May-2 Jun** => Final Research Project
+
 
 
