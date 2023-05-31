@@ -1,4 +1,5 @@
-# Chemistry Lesson Plans
+# Chemistry Lesson Plans 2022-2023 SY
+*All accomodations & specific lesson plan standards are located on Canvas*
 
 ***
 
@@ -43,7 +44,7 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **07-09 Nov** => *Exam* => Unit 3 - Test
 
 ***
-# Unit 4 - Chemical Bonding
+### Unit 4 - Chemical Bonding
 
 **15-18 Nov** => *Notes* => Unit 4 - Lewis Bonding Theory Notes
 **28-29 Nov** => *Notes* => Unit 4 - Nomenclature of Covalent & Ionic Compounds => *Assignment* => Unit 4 - Lewis Dot Structures 1 & 2
@@ -68,7 +69,7 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 **23 Feb** => *Exam* => Unit 4 Test (Per5-8)
 ***
 
-# Unit 2 Scientific Measurement
+### Unit 2 Scientific Measurement
 **21-22 Feb** => *Notes* => Units of Measurement / Significant Figures
 **23-24 Feb** => *Assignment* => Significant Figures 1
 **27-28 Feb** => *Assignment* => Significant Figures 2
@@ -80,6 +81,18 @@ Regular => *Assignment* => Electron Configuration Quiz Review 22_23
 
 ***
 
-#Unit 5 Chemical Quantities & Chemical Reactions
+### Unit 5 Chemical Quantities & Chemical Reactions
+**3-6 Apr** => *Notes* => The Mole => *Assignment* => The Mole
+**10-12 Apr** => *Notes* => Chemical Quantities
+**17-20 Apr** => *Notes* => Balancing Chemical Equations => *Assignment* => Balancing Chemical Equations 1
+**24-27 Apr** => *Assignment* => Balancing Chemical Equations 2
+**28 Apr-3 May** => *Notes* => Limiting Reagents => *Assignment* => Limiting Reagents
+**4-12 May** => *Assignment* => Limting Reagents (Had to review with them)
+**10 May** => *Quiz* => Unit 5
+** 13-19 May** => *Assignment* => Test Review
+### End of Year Stuff
+**22 May-2 Jun** => *Review* => Review for Final
+**5-8 Jun** => Final Exams
+
 
 
